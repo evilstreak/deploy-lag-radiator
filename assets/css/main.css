@@ -59,6 +59,11 @@ table tr.good td.merges {
   color: green;
 }
 
+table tr.good td {
+  font-size: 1.5em;
+  padding: 10px 30px;
+}
+
 table tr.stale td.commits,
 table tr.stale td.merges, {
   color: red;
