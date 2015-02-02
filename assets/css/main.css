@@ -64,11 +64,6 @@ table tr.good td {
   padding: 10px 30px;
 }
 
-table tr.stale td.commits,
-table tr.stale td.merges, {
-  color: red;
-}
-
 table tr.unknown td.commits,
 table tr.unknown td.merges {
   color: orange;
